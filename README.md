@@ -1,5 +1,5 @@
 # ada-calendar
-Created a visual calendar printing in the command line using Ada.
+Created a visual calendar printing in the command line using Ada. Developed for the class Legacy Systems, CIS3190.
 Prompts user for the year (must be after 1582), prints a banner out of numbers with the year at the top and then prints the whole calendar year in an aesthetic readable format.
 To compile and run:
 1. gcc -c cal.adb  
